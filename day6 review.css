@@ -1,0 +1,22 @@
+/*Universal selector*/
+
+{
+    padding: 0;
+    margin: 0;
+}
+
+/*Type selector*/
+
+body {
+    background-color: green;
+}
+
+/*ID selectors*/
+#topHeader {
+    color: white;
+}
+
+/*Class Selector*/ /* Uses the do symbol - . */
+.topPara {
+    color: yellow;
+}
