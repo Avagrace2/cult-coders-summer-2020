@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.container {
+    background-color: rgb(209, 152, 209);
+    display: flex;
+    text-align:center;
+    margin: 1em;
+    height: 250px;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.myDiv1 {
+    width: 30%;
+    height: 250px;
+    background-color: rgb(0, 0, 110);
+}
+
+.myDiv2 {
+    width: 30%;
+    height: 250px;
+    background-color: indigo;
+    color: black;
+}
+
+.myDiv3 {
+    width: 30%;
+    height: 250px;
+    color: black;
+    background-color: purple;
+}
+
+.myDiv4 {
+    width: 30%;
+    height: 250px;
+    background-color: magenta;
+    color: black
+}
